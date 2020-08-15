@@ -1,1 +1,1 @@
-E:\code\stockera
+print("123")
